@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7721" started-at="2020-10-27T08:28:58Z" finished-at="2020-10-27T08:29:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7721" started-at="2020-10-27T08:28:58Z" finished-at="2020-10-27T08:29:05Z">
+      <class name="StepsDefinition.TestRunner">
+        <test-method status="PASS" signature="api_for_foreign_Exchange()[pri:0, instance:StepsDefinition.TestRunner@43a8483f]" name="api_for_foreign_Exchange" duration-ms="704" started-at="2020-10-27T08:28:58Z" finished-at="2020-10-27T08:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_Exchange -->
+        <test-method status="PASS" signature="posted_with_future_date_information()[pri:0, instance:StepsDefinition.TestRunner@43a8483f]" name="posted_with_future_date_information" duration-ms="6967" started-at="2020-10-27T08:28:58Z" finished-at="2020-10-27T08:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_future_date_information -->
+        <test-method status="PASS" signature="validate_positive_response_code_received()[pri:0, instance:StepsDefinition.TestRunner@43a8483f]" name="validate_positive_response_code_received" duration-ms="7" started-at="2020-10-27T08:29:05Z" finished-at="2020-10-27T08:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+      </class> <!-- StepsDefinition.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
